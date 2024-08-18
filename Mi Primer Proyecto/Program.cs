@@ -16,7 +16,7 @@ public class Program
             Console.WriteLine(" Usted es Mayor de edad");
         }
         else
-        {
+        { 
             Console.WriteLine(" Usted es Menor de edad");
         }
     }
